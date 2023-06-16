@@ -14,22 +14,23 @@ You can see a live demo of the Color Generator [here](https://gauyash.github.io/
 
 ## Installation
 
+## Installation
+
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/color-generator.git
+   `git clone https://github.com/your-username/color-generator.git`
 
 2. Navigate to the project directory:
 
-    cd color-generator
+   `cd color-generator`
 
 3. Install the dependencies:
 
-    npm install
+   `npm install`
 
 4. Start the development server:
 
-    npm run dev
+   `npm run dev`
 
 5. Open your browser and visit http://localhost:3000 to see the application running.
 
