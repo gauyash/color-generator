@@ -4,7 +4,7 @@ import rgbToHex from "./utils";
 export const ColorContainer = ({ color }) => {
 
   return (
-    <div className="d-flex flex-wrap gap-2">
+    <div className="pb-5 d-flex flex-wrap gap-2">
       {color.map((items, index) => {
         return (
           <div

@@ -20,7 +20,7 @@ function App() {
 
   function generateColors(value) {
     try {
-      const colorValues = new Values(value).all(20);
+      const colorValues = new Values(value).all(10);
       setColor(colorValues);
       console.log(colorValues);
     } catch (error) {
